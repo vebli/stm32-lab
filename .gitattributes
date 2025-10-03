@@ -1,2 +1,2 @@
 * linguist-vendored
-/Core/Src/main.c/** linguist-vendored=false
+/Core/Src/main.c linguist-vendored=false
